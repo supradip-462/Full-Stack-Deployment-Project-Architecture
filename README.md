@@ -1,5 +1,7 @@
 # ⚡ LUMINA — Next-Gen Electronics & Workspace Gear Store
 
+> **This Project is Created By Supradip Bhattacharjee**
+
 A modern, high-performance, modular E-Commerce Web Application built as a **Web Development Capstone Project**.
 
 ![Created By](https://img.shields.io/badge/Created%20By-Supradip%20Bhattacharjee-6366f1?style=for-the-badge)
@@ -98,8 +100,10 @@ Fifth_Project/
 
 ---
 
-## 👤 Author Credit
+## 👤 Author Credit & Attribution
 
-**Created By**: Supradip Bhattacharjee  
-**Project**: Web Development Capstone Project  
-**Tech Stack**: HTML5, Vanilla CSS3 (Custom Variables), JavaScript (ES6 Modules), Vite, Vercel/Netlify Ready.
+> **This Project is Created By Supradip Bhattacharjee**
+
+- **Developer**: Supradip Bhattacharjee
+- **Project**: Web Development Capstone Project
+- **Tech Stack**: HTML5, Vanilla CSS3 (Custom Variables), JavaScript (ES6 Modules), Vite, Vercel/Netlify Ready.
